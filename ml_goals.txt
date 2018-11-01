@@ -12,7 +12,7 @@ Goals of practising ML problems:
 
 3. Improve data science skills:
 - Pre-processing of data
-- Vizualization
+- Vizualization 
 - data resampling methods
 - Parameter Tuning
 - dealing with data leakage
@@ -46,7 +46,7 @@ Goals of practising ML problems:
 
 6. Unerstand deep learning practical tips
 - hyperparameter tuning
-- visualization 
+- visualization of layers 
 - evaluation of algorithm
 - understand losses, initialization and activations intutively
 - how to improve deep learning algorithm
