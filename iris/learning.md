@@ -1,7 +1,7 @@
 1. What are the basic steps in machine learning problem?
 
    Load data -> Summarize stats -> Visuallize -> Divide into train and test -> Train ML algorithm -> Predict -> display results
-   
+   ![GitHub Logo](ML-DL-Problems/images/ml_process.png)
 
 2. Univariate and bivariate analysis
 
