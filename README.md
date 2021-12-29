@@ -56,4 +56,3 @@ This repository contains machine learning and deep learning practice problems fr
 
 7. Telling story with data and present useful insights
 
-8. Apply machine learning on geospatial datasets
